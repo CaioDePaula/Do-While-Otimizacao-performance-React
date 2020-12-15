@@ -1,0 +1,21 @@
+.post {
+    width: 450px;
+
+    margin-top: 10px;
+
+    text-align: start;
+
+    box-shadow: 5px 5px 24px 5px #9a9a9a7d;
+    border-radius: 7px;
+
+    display: flex;
+    align-items: center;
+}
+
+.post img {
+    border-radius: 7px;
+}
+
+.post h3 {
+    margin-left: 5px;
+}
